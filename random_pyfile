@@ -1,0 +1,2 @@
+#print some output on the screen 
+print("hello world")
